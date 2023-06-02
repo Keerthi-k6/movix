@@ -2,6 +2,28 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Output Screens
+
+### Desktop view 
+
+<img width="960" alt="desktopview" src="https://github.com/Keerthi-k6/movix/assets/94037814/9e19f685-70d9-4501-a635-c6f4b1be74ca">
+
+### Tablet view
+
+<img width="352" alt="tabletview" src="https://github.com/Keerthi-k6/movix/assets/94037814/2a27019c-9b2e-45e6-bb43-02d18bb64d4e">
+
+### Mobile view 
+
+<img width="380" alt="Screenshot 2023-06-02 033714" src="https://github.com/Keerthi-k6/movix/assets/94037814/a087ede4-368e-4c53-9883-5f802814488e">
+
+
+
+### Other Screens
+
+<img width="960" alt="2nd screen" src="https://github.com/Keerthi-k6/movix/assets/94037814/b4dfb6c5-1427-4588-96a7-e25a5f49f316">
+<img width="960" alt="3rd screen" src="https://github.com/Keerthi-k6/movix/assets/94037814/d937571b-06d0-4c2d-85bf-81acc5e107bd">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +90,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
